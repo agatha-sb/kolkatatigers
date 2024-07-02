@@ -1535,7 +1535,7 @@ font-weight: 500;
   z-index: 1;
   display: block;
   overflow: hidden;
-  aspect-ratio: 3/2;
+  aspect-ratio: 1;
   width: 100%;
 }
 .kt-gallery__tab-single .tab-caption {
@@ -1552,6 +1552,7 @@ font-weight: 500;
   line-height: 28px;
   text-transform: uppercase;
   letter-spacing: 0.4px;
+  display: none;
 }
 .kt-gallery__tab-single .tab-caption span {
   display: block;
