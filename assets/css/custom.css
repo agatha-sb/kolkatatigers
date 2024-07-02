@@ -1508,7 +1508,7 @@ font-weight: 500;
 }
 .kt-gallery__tab-wrap > * {
   flex: 0 0 auto;
-  width: 32%;
+  width: 23.5%;
 }
 .kt-gallery__tab-wrap {
   justify-content: flex-start;
